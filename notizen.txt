@@ -16,4 +16,4 @@ git checkout main > zu main wechsel
 
 git push > auf dem Server hochladen
 
-
+git pull > vom Server runterholen
