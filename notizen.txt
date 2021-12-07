@@ -8,8 +8,12 @@ git add > wird von git berücksichtigt
 
 git commit > schließt Sicherungsvorgang ab
 
-git fetch > holt den neuen Branch2 rein vom github Serve
+git fetch > holt den neuen Branch2 rein vom github Server
 
-git branch > zeigt nur die lokalen a
+git branch > zeigt nur die lokalen an
 
 git checkout main > zu main wechsel
+
+git push > auf dem Server hochladen
+
+
