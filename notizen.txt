@@ -4,3 +4,5 @@ GIT > Versionskontrollsystem
 
 git status > Sicht auf die Dateien
 
+git add > wird von git berücksichtigt
+
